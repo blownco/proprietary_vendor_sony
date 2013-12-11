@@ -133,7 +133,8 @@ PRODUCT_COPY_FILES += \
     vendor/sony/honami/proprietary/lib/hw/nfc.msm8974.so:system/lib/hw/nfc.msm8974.so \
     vendor/sony/honami/proprietary/lib/libMiscTaAccessor.so:system/lib/libMiscTaAccessor.so \
     vendor/sony/honami/proprietary/lib/libQSEEComAPI.so:system/lib/libQSEEComAPI.so \
-    vendor/sony/honami/proprietary/lib/lib_get_secure_mode.so:system/lib/lib_get_secure_mode.so \
+    vendor/sony/honami/proprietary/lib/lib_asb_tee.so:system/lib/lib_asb_tee.so \
+	vendor/sony/honami/proprietary/lib/lib_get_secure_mode.so:system/lib/lib_get_secure_mode.so \
     vendor/sony/honami/proprietary/lib/libals.so:system/lib/libals.so \
     vendor/sony/honami/proprietary/lib/libcacao_chokoball.so:system/lib/libcacao_chokoball.so \
     vendor/sony/honami/proprietary/lib/libcacao_client.so:system/lib/libcacao_client.so \
