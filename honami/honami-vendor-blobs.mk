@@ -352,9 +352,9 @@ PRODUCT_COPY_FILES += \
     vendor/sony/honami/proprietary/vendor/lib/libmmcamera_hdr_lib.so:system/vendor/lib/libmmcamera_hdr_lib.so \
     vendor/sony/honami/proprietary/vendor/lib/libmmcamera_sunny_p12v01m_eeprom.so:system/vendor/lib/libmmcamera_sunny_p12v01m_eeprom.so \
     vendor/sony/honami/proprietary/vendor/lib/libmmcamera_sunny_p5v23c_eeprom.so:system/vendor/lib/libmmcamera_sunny_p5v23c_eeprom.so \
-    vendor/sony/honami/proprietary/vendor/lib/libmmcamera_truly_p5v12c_eeprom.so:system/vendor/lib/libmmcamera_truly_p5v12c_eeprom.so \
+    vendor/sony/honami/proprietary/vendor/lib/libmmcamera_truly_cm7700_eeprom.so:system/vendor/lib/libmmcamera_truly_cm7700_eeprom.so \
     vendor/sony/honami/proprietary/vendor/lib/libmmcamera_tuning.so:system/vendor/lib/libmmcamera_tuning.so \
-    vendor/sony/honami/proprietary/vendor/lib/libmmcamera_wavelet.so:system/vendor/lib/libmmcamera_wavelet.so \
+    vendor/sony/honami/proprietary/vendor/lib/libmmcamera_wavelet_lib.so:system/vendor/lib/libmmcamera_wavelet_lib.so \
     vendor/sony/honami/proprietary/vendor/lib/libmmjpeg.so:system/vendor/lib/libmmjpeg.so \
     vendor/sony/honami/proprietary/vendor/lib/libmmqjpeg_codec.so:system/vendor/lib/libmmqjpeg_codec.so \
     vendor/sony/honami/proprietary/vendor/lib/libnetmgr.so:system/vendor/lib/libnetmgr.so \
